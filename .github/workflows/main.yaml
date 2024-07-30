@@ -1,4 +1,4 @@
-name: FLUTTER_APPLICATION
+name: CI_CD
 
 # This workflow is triggered on pushes to the repository.
 
